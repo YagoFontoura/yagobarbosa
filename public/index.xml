@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yago Barbosa Blog – Yago Barbosa Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yago Barbosa Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 08 Mar 2026 18:15:24 -0300</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+    <item>
+      <title>Implementacao De Protocolo Uart Em Chip 8bits Sem Uso De Bibliotecas</title>
+      <link>http://localhost:1313/blog/implementacao-de-protocolo-uart-em-chip-8bits-sem-uso-de-bibliotecas/</link>
+      <pubDate>Sun, 08 Mar 2026 18:15:24 -0300</pubDate>
+      
+      <guid>http://localhost:1313/blog/implementacao-de-protocolo-uart-em-chip-8bits-sem-uso-de-bibliotecas/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
